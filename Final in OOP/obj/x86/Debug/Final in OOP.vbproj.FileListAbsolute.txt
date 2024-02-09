@@ -1,0 +1,65 @@
+c:\users\llaga\documents\visual studio 2010\Projects\Final in OOP\Final in OOP\bin\Debug\Final in OOP.exe
+c:\users\llaga\documents\visual studio 2010\Projects\Final in OOP\Final in OOP\bin\Debug\Final in OOP.pdb
+c:\users\llaga\documents\visual studio 2010\Projects\Final in OOP\Final in OOP\bin\Debug\Final in OOP.xml
+c:\users\llaga\documents\visual studio 2010\Projects\Final in OOP\Final in OOP\obj\x86\Debug\Final_in_OOP.frmLogin.resources
+c:\users\llaga\documents\visual studio 2010\Projects\Final in OOP\Final in OOP\obj\x86\Debug\Final_in_OOP.Resources.resources
+c:\users\llaga\documents\visual studio 2010\Projects\Final in OOP\Final in OOP\obj\x86\Debug\Final in OOP.vbproj.GenerateResource.Cache
+c:\users\llaga\documents\visual studio 2010\Projects\Final in OOP\Final in OOP\obj\x86\Debug\Final in OOP.exe
+c:\users\llaga\documents\visual studio 2010\Projects\Final in OOP\Final in OOP\obj\x86\Debug\Final in OOP.xml
+c:\users\llaga\documents\visual studio 2010\Projects\Final in OOP\Final in OOP\obj\x86\Debug\Final in OOP.pdb
+c:\users\llaga\documents\visual studio 2010\Projects\Final in OOP\Final in OOP\obj\x86\Debug\Final_in_OOP.frmAdmin.resources
+c:\users\llaga\documents\visual studio 2010\Projects\Final in OOP\Final in OOP\obj\x86\Debug\Final_in_OOP.frmAccountManager.resources
+c:\users\llaga\documents\visual studio 2010\Projects\Final in OOP\Final in OOP\obj\x86\Debug\Final_in_OOP.frmLogHistory.resources
+c:\users\llaga\documents\visual studio 2010\Projects\Final in OOP\Final in OOP\obj\x86\Debug\Final_in_OOP.frmSales.resources
+c:\users\llaga\documents\visual studio 2010\Projects\Final in OOP\Final in OOP\bin\Debug\Final in OOP.exe.config
+c:\users\llaga\documents\visual studio 2010\Projects\Final in OOP\Final in OOP\obj\x86\Debug\Final in OOP.vbprojResolveAssemblyReference.cache
+c:\users\llaga\documents\visual studio 2010\Projects\Final in OOP\Final in OOP\obj\x86\Debug\Final_in_OOP.frmInventory.resources
+c:\users\llaga\documents\visual studio 2010\Projects\Final in OOP\Final in OOP\obj\x86\Debug\Final_in_OOP.frmReportInventory.resources
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\Final in OOP\Final in OOP\bin\Debug\Final in OOP.exe.config
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\Final in OOP\Final in OOP\obj\x86\Debug\Final in OOP.exe
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\Final in OOP\Final in OOP\obj\x86\Debug\Final in OOP.xml
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\Final in OOP\Final in OOP\obj\x86\Debug\Final in OOP.pdb
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\Final in OOP\Final in OOP\bin\Debug\Final in OOP.exe
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\Final in OOP\Final in OOP\bin\Debug\Final in OOP.pdb
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\Final in OOP\Final in OOP\bin\Debug\Final in OOP.xml
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\Final in OOP\Final in OOP\obj\x86\Debug\Final in OOP.vbprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\Final in OOP\Final in OOP\obj\x86\Debug\Final_in_OOP.frmAccountManager.resources
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\Final in OOP\Final in OOP\obj\x86\Debug\Final_in_OOP.frmAdmin.resources
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\Final in OOP\Final in OOP\obj\x86\Debug\Final_in_OOP.frmInventory.resources
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\Final in OOP\Final in OOP\obj\x86\Debug\Final_in_OOP.frmLogHistory.resources
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\Final in OOP\Final in OOP\obj\x86\Debug\Final_in_OOP.frmLogin.resources
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\Final in OOP\Final in OOP\obj\x86\Debug\Final_in_OOP.frmReportInventory.resources
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\Final in OOP\Final in OOP\obj\x86\Debug\Final_in_OOP.frmSales.resources
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\Final in OOP\Final in OOP\obj\x86\Debug\Final_in_OOP.Resources.resources
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\Final in OOP\Final in OOP\obj\x86\Debug\Final in OOP.vbproj.GenerateResource.Cache
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\Final in OOP\Final in OOP\obj\x86\Debug\Final_in_OOP.frmCashier.resources
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\Final in OOP\Final in OOP\obj\x86\Debug\Final_in_OOP.frmReportReceipt.resources
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\Final in OOP\Final in OOP\obj\x86\Debug\Final_in_OOP.frmReportSales.resources
+D:\Project\Final in OOP\Final in OOP\bin\Debug\Final in OOP.exe.config
+D:\Project\Final in OOP\Final in OOP\obj\x86\Debug\Final in OOP.exe
+D:\Project\Final in OOP\Final in OOP\obj\x86\Debug\Final in OOP.xml
+D:\Project\Final in OOP\Final in OOP\obj\x86\Debug\Final in OOP.pdb
+C:\Users\llaga\Documents\Visual Studio 2010\Projects\Final in OOP\Final in OOP\obj\x86\Debug\Final_in_OOP.frmCashier.resources
+C:\Users\llaga\Documents\Visual Studio 2010\Projects\Final in OOP\Final in OOP\obj\x86\Debug\Final_in_OOP.frmReportSales.resources
+C:\Users\llaga\Documents\visual studio 2010\Projects\Final in OOP\Final in OOP\obj\x86\Debug\Final_in_OOP.frmReportReceipt.resources
+E:\Project\Final in OOP\Final in OOP\bin\Debug\Final in OOP.exe.config
+E:\Project\Final in OOP\Final in OOP\obj\x86\Debug\Final in OOP.exe
+E:\Project\Final in OOP\Final in OOP\obj\x86\Debug\Final in OOP.xml
+E:\Project\Final in OOP\Final in OOP\obj\x86\Debug\Final in OOP.pdb
+D:\Projects\Visual Studio 2010\Project\Final in OOP\Final in OOP\obj\x86\Debug\Final in OOP.vbproj.AssemblyReference.cache
+D:\Projects\Visual Studio 2010\Project\Final in OOP\Final in OOP\obj\x86\Debug\Final_in_OOP.frmAccountManager.resources
+D:\Projects\Visual Studio 2010\Project\Final in OOP\Final in OOP\obj\x86\Debug\Final_in_OOP.frmAdmin.resources
+D:\Projects\Visual Studio 2010\Project\Final in OOP\Final in OOP\obj\x86\Debug\Final_in_OOP.frmCashier.resources
+D:\Projects\Visual Studio 2010\Project\Final in OOP\Final in OOP\obj\x86\Debug\Final_in_OOP.frmInventory.resources
+D:\Projects\Visual Studio 2010\Project\Final in OOP\Final in OOP\obj\x86\Debug\Final_in_OOP.frmLogHistory.resources
+D:\Projects\Visual Studio 2010\Project\Final in OOP\Final in OOP\obj\x86\Debug\Final_in_OOP.frmLogin.resources
+D:\Projects\Visual Studio 2010\Project\Final in OOP\Final in OOP\obj\x86\Debug\Final_in_OOP.frmReportInventory.resources
+D:\Projects\Visual Studio 2010\Project\Final in OOP\Final in OOP\obj\x86\Debug\Final_in_OOP.frmReportReceipt.resources
+D:\Projects\Visual Studio 2010\Project\Final in OOP\Final in OOP\obj\x86\Debug\Final_in_OOP.frmReportSales.resources
+D:\Projects\Visual Studio 2010\Project\Final in OOP\Final in OOP\obj\x86\Debug\Final_in_OOP.frmSales.resources
+D:\Projects\Visual Studio 2010\Project\Final in OOP\Final in OOP\obj\x86\Debug\Final_in_OOP.Resources.resources
+D:\Projects\Visual Studio 2010\Project\Final in OOP\Final in OOP\obj\x86\Debug\Final in OOP.vbproj.GenerateResource.cache
+D:\Projects\Visual Studio 2010\Project\Final in OOP\Final in OOP\obj\x86\Debug\Final in OOP.vbproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio 2010\Project\Final in OOP\Final in OOP\obj\x86\Debug\Final in OOP.exe
+D:\Projects\Visual Studio 2010\Project\Final in OOP\Final in OOP\obj\x86\Debug\Final in OOP.xml
+D:\Projects\Visual Studio 2010\Project\Final in OOP\Final in OOP\obj\x86\Debug\Final in OOP.pdb
