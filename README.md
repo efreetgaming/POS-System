@@ -3,14 +3,14 @@
 # Feature 
 
 * Login Side
-![Screenshot 2024-02-09 130150](https://github.com/efreetgaming/POS-System-in-Fast-food-Restaurant/assets/78950659/ed6d738a-656e-494f-a980-25b79bb27b14)
+
 * Cashier Side
 ![Screenshot 2024-02-09 130247](https://github.com/efreetgaming/POS-System-in-Fast-food-Restaurant/assets/78950659/d29714e9-99a9-4100-abfd-42c4037d3413)
 * Administrator Side
 
 * Add, Change, & Delete the following
   * User Accoun for Admin and Cashier
-  ![Screenshot 2024-02-09 130639](https://github.com/efreetgaming/POS-System-in-Fast-food-Restaurant/assets/78950659/f4c4a20e-50dd-4e97-ad6a-8f1560ec9aeb)
+  ![Screenshot 2024-02-09 130150](https://github.com/efreetgaming/POS-System-in-Fast-food-Restaurant/assets/78950659/ed6d738a-656e-494f-a980-25b79bb27b14)
   * Products Enlisted to your inventory
 * Print the products inventory. (Using Crystal Report 2010)
 
