@@ -3,7 +3,7 @@
 # Feature 
 
 * Login Side
-*![Screenshot 2024-02-09 130928](https://github.com/efreetgaming/POS-System-in-Fast-food-Restaurant/assets/78950659/4b8b9ed6-9260-4b5d-b635-8d423e293494)
+![Screenshot 2024-02-09 130928](https://github.com/efreetgaming/POS-System-in-Fast-food-Restaurant/assets/78950659/4b8b9ed6-9260-4b5d-b635-8d423e293494)
 
 * Cashier Side
 ![Screenshot 2024-02-09 130247](https://github.com/efreetgaming/POS-System-in-Fast-food-Restaurant/assets/78950659/d29714e9-99a9-4100-abfd-42c4037d3413)
