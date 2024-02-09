@@ -1,4 +1,5 @@
 # POS System for Fast-Food Restaurant
+Ya-hallo!~, I would like to introduce to you a Computer Part Shop POS System with everything you can imagine. This is not just a POS system for Computer Part Shop this is also an All-Purpose POS system that will suits for your Business. Worrying but the printing documents? We have it! build with Crystal Report!
 
 # Feature 
 
