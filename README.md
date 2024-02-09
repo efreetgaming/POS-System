@@ -19,5 +19,9 @@
 
 (**Note** : If you planning to use Visual Studio Later version 2019 or latest, please download [to this link](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net481-developer-pack-offline-installer) this will lead to dotnet framework and install it.)
 
+# Installation
+Download the whole source code as zip or you can clone a repository with the use of GitHub Desktop.
+You can open the program by opening the Final on OOP.sln file
+
 # P.S
 I won't provide any support to this repository since i'm using this as a portfolio that project i made.
